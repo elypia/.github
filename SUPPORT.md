@@ -7,4 +7,4 @@ consider using a forum or contacting us rather than creating an issue.
 * Post the question on [StackOverflow](https://stackoverflow.com/).
 
 ## Security
-If your problem is security related, please go to the [security](SECURITY.md) document.
+If your problem is security related, please go to the [security](SECURITY.md) page.

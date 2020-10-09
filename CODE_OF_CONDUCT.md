@@ -31,6 +31,6 @@ If you have any problems with a member of the community,
 please contact us through one of the channels below or contact the managing director 
 directly if it's something you want handled privately, even from the team.
 
-* Ask us on [Matrix](https://matrix.to/#/+elypia:matrix.org) or [Discord]((https://discordapp.com/invite/hprGMaM))!
+* Ask us on [Matrix](https://matrix.to/#/+elypia:matrix.org) or [Discord](https://discordapp.com/invite/hprGMaM)!
 * Email support@elypia.org.
 * Email [Seth](https://find-and-update.company-information.service.gov.uk/officers/JHIszHq0eErcApZ9k_FhzBFPF8A/appointments) (seth@elypia.org) the current managing director.

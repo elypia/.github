@@ -2,9 +2,7 @@
 This is a generic document on ways to contribute to our projects
 and any guidelines or expectations around it.
 
-Some projects may have their own `CONTRIBUTING.md` if additional information
-needs to be provided, but most if not all of our projects should be governed
-by this.
+Some projects may have their own contributing page if additional information is provided.
 
 ## How To Contribute
 There are many ways to contribute to our projects depending on what skills you have.
@@ -44,7 +42,7 @@ you're welcome to denote your copyright in contributions.
 If you choose not to you'll be covered by the generic "... and Contributors"
 with a link to the respective Contributors page on GitLab.
 
-If modifying existing files and your change is significant, you're welcome to
+If making significant modifications to an existing file, you're welcome to
 add your name and copyright to the license header at the top of the file.
 If creating new files, ensure you add the license header yourself with your
 name and optionally a link, or email address to refer to yourself.
