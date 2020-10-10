@@ -37,7 +37,8 @@ All contributions should be done under the license of the project. For example,
 if a project is under the Apache 2.0 license, then the contribution should also be 
 under the Apache 2.0 license.
 
-Contributors don't have to sign a Copyright License Agreement (CLA);
+Contributors don't have to sign a 
+[Contributor License Agreement (CLA)](https://wikipedia.org/wiki/Contributor_License_Agreement);
 you're welcome to denote your copyright in contributions. 
 If you choose not to you'll be covered by the generic "... and Contributors"
 with a link to the respective Contributors page on GitLab.
