@@ -6,7 +6,7 @@ This code of conduct applies in all spaces managed by Elypia, including our repo
 
 ### Transparency
 
-We value transparency and always aim to do things in the community interest. It might be difficult to make _everyone_ happy, but we'll at least ensure public conversations take place before major decisions, and that everyone has a platform to raise their concerns.
+We value transparency and always aim to do things in the community-interest. It might be difficult to make _everyone_ happy, but we'll at least ensure public conversations take place before major decisions, and that everyone has a platform to raise their concerns.
 
 ### Inclusivity
 
